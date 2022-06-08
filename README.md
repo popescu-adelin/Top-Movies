@@ -2,7 +2,7 @@
  testing: 
 [![Top Movies](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/3wozgw&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/3wozgw/runs)
 
-Press above!
+Press above!☝️
 
 BUGS: 
  The address doesn't change when pressing enter, meaning that the code it's hard to read, and can lead to malfunctions.
